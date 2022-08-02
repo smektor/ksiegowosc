@@ -1,0 +1,31 @@
+{
+  "title": "Ledger Journal September 2020",
+  "start_date": "01-09-2020",
+  "end_date": "30-09-2020",
+  "transactions": [
+   {
+    "date": "02-09-2020",
+    "type": "Income",
+    "amount": 100,
+    "customer": "Alice"
+   },
+   {
+    "date": "04-09-2020",
+    "type": "Expenditure",
+    "amount": 200,
+    "supplier": "Bob"
+   },
+   {
+    "date": "23-09-2020",
+    "type": "Income",
+    "amount": 1000,
+    "customer": "Chloe"
+   },
+   {
+    "date": "27-09-2020",
+    "type": "Expenditure",
+    "amount": 300,
+    "supplier": "Dave"
+   }
+  ]
+}
